@@ -14,17 +14,24 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="안녕하세요."/>
+            android:textColor="#808080"
+            android:textStyle="bold|italic"
+            android:text="안녕하세요." />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="반갑습니다."/>
+            android:textColor="#392f31"
+            android:textStyle="bold|italic"
+            android:text="반갑습니다." />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="처음 코딩을 배워봅니다."/>
+            android:text="처음 코딩을 배워봅니다."
+            android:textColor="#f29886"
+            android:textSize="20sp"
+            android:textStyle="bold|italic" />
 
     </LinearLayout>
 
